@@ -1,6 +1,7 @@
 # Ignore personal files
 *.input
 *.html
+signature.*
 
 # Ignore symlinks
 Downloads
