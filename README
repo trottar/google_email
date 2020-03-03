@@ -1,0 +1,9 @@
+Script to send emails.
+
+Multiple attachments and a easily editable contact list are available.
+
+Run program with...
+
+    >./send_gmail.sh
+
+Enviroment for gmail login and password will need to be established locally.

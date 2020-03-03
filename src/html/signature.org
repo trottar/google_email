@@ -1,0 +1,11 @@
+#+AUTHOR: Richard L. Trotta III
+#+EMAIL: trotta@cua.edu
+#+OPTIONS: html-postamble:nil
+#+DESCRIPTION: Email Signature
+#+MACRO: opt @@latex:\opt{$1}@@@@html:$1@@
+
+Best wishes, \\
+*Richard Trotta* \\
+*PhD Candidate, Nuclear Physics* \\
+*The Catholic University of America* \\
+*(610) 739 0709*
