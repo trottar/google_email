@@ -1,4 +1,6 @@
+# Ignore personal files
 *.input
 *.html
-Downloads
-Pictures
+# Ignore symlinks
+/Downloads
+/Pictures
